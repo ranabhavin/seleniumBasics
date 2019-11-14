@@ -1,0 +1,8 @@
+INFO    2019-09-20 15:48:07,892 [main] TestProperties  - OR properties file Loaded
+INFO    2019-09-20 15:48:07,892 [main] TestProperties  - config file loaded
+INFO    2019-09-20 15:48:14,802 [main] TestProperties  - Chrome Driver called
+INFO    2019-09-20 15:48:16,603 [main] TestProperties  - URl Called :https://gmail.com
+INFO    2019-09-20 15:48:20,804 [main] TestProperties  - Window maximized
+INFO    2019-09-20 15:48:21,046 [main] TestProperties  - Typing in an Element :useremail_IDAdded value is :qa1.orioncoders@gmail.com
+INFO    2019-09-20 15:48:21,345 [main] TestProperties  - Waiting on Element to action: useremailNextBtn_ID
+INFO    2019-09-20 15:48:22,509 [main] TestProperties  - Waiting on Element to action: userPasswordNextBtn_XPATH
